@@ -11,7 +11,7 @@ The program checks whether a given string is a palindrome or not.
 Microcomputer's systems
 
 **Collaborators**
-![Tamara Ristova (1)]([[https://github.com/Ristova123/8086/blob/main/delenje.png](https://github.com/Ristova123))](https://github.com/Ristova123))
+![Tamara Ristova ]([https://github.com/Ristova123/8086/blob/main/delenje.png](https://github.com/Ristova123))(https://github.com/Ristova123))
 
 **Built With**
 
