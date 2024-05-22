@@ -12,7 +12,7 @@ Microcomputer's systems
 
 **Collaborators**
 - [Tamara Ristova ]([https://github.com/Ristova123/8086/blob/main/delenje.png](https://github.com/Ristova123)
--- [Tamara Ristova ][(https://emu8086-microprocessor-emulator.en.softonic.com](https://github.com/Ristova123)/)
+--[Tamara Ristova ](https://github.com/Ristova123/)
 **Built With**
 
 This project is built using the following tools:
