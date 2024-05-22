@@ -12,7 +12,9 @@ Microcomputer's systems
 
 **Collaborators**
 
---[Tamara Ristova ](https://github.com/Ristova123/).
+-[Tamara Ristova ](https://github.com/Ristova123/)
+-[David Jakimov](https://github.com/David123/)
+
 
 **Built With**
 
