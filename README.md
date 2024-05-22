@@ -3,9 +3,8 @@ Exercise of Low Level Programming with 8086 Assembly Lecture, implemented with E
 In general, Emu8086 is easier to use, write code and test program. 
 The program checks whether a given string is a palindrome or not.
 
-![Screenshot (2)](https://github.com/evamiteva/palindrome-8086/assets/115340958/dc34190c-7f92-42db-8820-25657e91c06e)
+![Screenshot (2)](https://github.com/Ristova123/8086/blob/main/delenje.png)
 
-![Screenshot (5)](https://github.com/evamiteva/palindrome-8086/assets/115340958/f73c9b39-eee3-48f4-93ee-4b7cc84bd3a0)
 
 **Subject**
 
